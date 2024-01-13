@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-12T19:10:28 IST" name="Suite" finished-at="2024-01-12T19:10:33 IST" duration-ms="5565">
+    <groups>
+    </groups>
+    <test started-at="2024-01-12T19:10:28 IST" name="Test" finished-at="2024-01-12T19:10:33 IST" duration-ms="5565">
+      <class name="TestLayer.CreateAccountPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestLayer.CreateAccountPageTest@6a400542]" started-at="2024-01-12T19:10:28 IST" name="setUp" finished-at="2024-01-12T19:10:32 IST" duration-ms="4313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateNewMemberAccountUser()[pri:0, instance:TestLayer.CreateAccountPageTest@6a400542]" started-at="2024-01-12T19:10:32 IST" name="validateNewMemberAccountUser" finished-at="2024-01-12T19:10:33 IST" duration-ms="1219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateNewMemberAccountUser -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestLayer.CreateAccountPageTest@6a400542]" started-at="2024-01-12T19:10:33 IST" name="tearDown" finished-at="2024-01-12T19:10:33 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestLayer.CreateAccountPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
